@@ -42,3 +42,7 @@ CsBugmenot.Vote(account, true);
 // OR
 account.Vote(false);
 ```
+
+## Example
+You can find the code for this example in the 'CSBugmenot_console' folder.
+![Example app screenshot](https://i.imgur.com/4TGNm5r.png)
