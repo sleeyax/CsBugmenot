@@ -1,6 +1,9 @@
 # CsBugmenot
 This project is a port of [Davide Pastore](https://github.com/DavidePastore)'s java [JBugmenot](https://github.com/DavidePastore/JBugmenot) library to C#. CsBugmenot uses zero (0) external libraries.
 
+## Installation
+Build from source code or [download the library](https://github.com/sleeyax/CsBugmenot/releases) and add it as a reference to your project.
+
 ## Usage
 Usage is very similar to the original library.
 
